@@ -1,0 +1,81 @@
+Installing of map packages such as (ggmap , maps , mapdata)
+> install.packages("ggmap")
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+Installing package into ‘C:/Users/sekha/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘stringi’, ‘png’, ‘plyr’, ‘jpeg’, ‘stringr’, ‘purrr’, ‘tidyr’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/stringi_1.8.4.zip'
+Content type 'application/zip' length 14997376 bytes (14.3 MB)
+downloaded 14.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/png_0.1-8.zip'
+Content type 'application/zip' length 193087 bytes (188 KB)
+downloaded 188 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/plyr_1.8.9.zip'
+Content type 'application/zip' length 1164080 bytes (1.1 MB)
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/jpeg_0.1-10.zip'
+Content type 'application/zip' length 157064 bytes (153 KB)
+downloaded 153 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/stringr_1.5.1.zip'
+Content type 'application/zip' length 319235 bytes (311 KB)
+downloaded 311 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/purrr_1.0.2.zip'
+Content type 'application/zip' length 498855 bytes (487 KB)
+downloaded 487 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/tidyr_1.3.1.zip'
+Content type 'application/zip' length 1267489 bytes (1.2 MB)
+downloaded 1.2 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/ggmap_4.0.0.zip'
+Content type 'application/zip' length 4731181 bytes (4.5 MB)
+downloaded 4.5 MB
+
+package ‘stringi’ successfully unpacked and MD5 sums checked
+package ‘png’ successfully unpacked and MD5 sums checked
+package ‘plyr’ successfully unpacked and MD5 sums checked
+package ‘jpeg’ successfully unpacked and MD5 sums checked
+package ‘stringr’ successfully unpacked and MD5 sums checked
+package ‘purrr’ successfully unpacked and MD5 sums checked
+package ‘tidyr’ successfully unpacked and MD5 sums checked
+package ‘ggmap’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\sekha\AppData\Local\Temp\Rtmpy4aEaz\downloaded_packages
+> install.packages("maps")
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+Installing package into ‘C:/Users/sekha/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/maps_3.4.2.zip'
+Content type 'application/zip' length 3099193 bytes (3.0 MB)
+downloaded 3.0 MB
+
+package ‘maps’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\sekha\AppData\Local\Temp\Rtmpy4aEaz\downloaded_packages
+> install.packages("mapdata")
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+Installing package into ‘C:/Users/sekha/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/mapdata_2.3.1.zip'
+Content type 'application/zip' length 25640575 bytes (24.5 MB)
+downloaded 24.5 MB
+
+package ‘mapdata’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\sekha\AppData\Local\Temp\Rtmpy4aEaz\downloaded_packages
+> 
